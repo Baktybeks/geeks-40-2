@@ -1,0 +1,14 @@
+.user {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    &_name {
+        color: green;
+    }
+    &_age {
+        color: red;
+    }
+    &_email {
+        color: blue;
+    }
+}
