@@ -1,0 +1,18 @@
+.user {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    &_name {
+        color: green;
+    }
+    &_age {
+        color: red;
+    }
+    &_email {
+        color: blue;
+    }
+}

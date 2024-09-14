@@ -7,8 +7,7 @@ function App() {
     return (
         <>
             <div className="App">
-                {/*<MainPage/>*/}
-            <Counter/>
+                <MainPage/>
             </div>
         </>
     );
