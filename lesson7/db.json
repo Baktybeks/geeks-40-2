@@ -1,0 +1,168 @@
+{
+  "student": [
+    {
+      "id": "2",
+      "surname": "Алиев",
+      "name": "Тимур",
+      "groupId": 2
+    },
+    {
+      "surname": "Sam",
+      "name": "Тимур",
+      "groupId": 2,
+      "id": "3"
+    },
+    {
+      "surname": "Sam",
+      "name": "Тимур",
+      "groupId": 2,
+      "id": "4"
+    },
+    {
+      "surname": "Sam",
+      "name": "Тимур",
+      "groupId": 2,
+      "id": "5"
+    },
+    {
+      "surname": "Sam",
+      "name": "Тимур",
+      "groupId": 2,
+      "id": "6"
+    },
+    {
+      "surname": "Sam",
+      "name": "Тимур",
+      "groupId": 2,
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "surname": "Джузумалиев",
+      "name": "Тимур22222",
+      "groupId": 3
+    },
+    {
+      "id": "9",
+      "surname": "Джусупбеков",
+      "name": "Тимур22222",
+      "groupId": 1
+    },
+    {
+      "id": "10",
+      "surname": "Ергалиев",
+      "name": "Тимур22222",
+      "groupId": 4
+    },
+    {
+      "id": "11",
+      "surname": "Жакыпов",
+      "name": "Тимур22222",
+      "groupId": 2
+    },
+    {
+      "surname": "Sam",
+      "name": "Тимур",
+      "groupId": 2,
+      "id": "12"
+    },
+    {
+      "id": "13",
+      "surname": "Зулпукаров",
+      "name": "Тимур22222",
+      "groupId": 4
+    }
+  ],
+  "group": [
+    {
+      "id": "1",
+      "group": "БиПЗИм(дот)-1-22"
+    },
+    {
+      "id": "2",
+      "group": "ИВТСдот-1-22"
+    },
+    {
+      "id": "3",
+      "group": "ИСТд-1-22"
+    },
+    {
+      "id": "4",
+      "group": "ПЗИдот-1-22"
+    }
+  ],
+  "users": [
+    {
+      "id": "213a",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "9a7b",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "e098",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "6549",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "9fd3",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "8ab6",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "052c",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "7cec",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "321",
+      "password2": "321"
+    },
+    {
+      "id": "2c2a",
+      "age": 18,
+      "name": "Kuban",
+      "email": "admin123@mail.ru",
+      "password": "34563456",
+      "password2": "34563456"
+    }
+  ]
+}
